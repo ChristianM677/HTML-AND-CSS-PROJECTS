@@ -1,0 +1,9 @@
+p {
+    color: gold;
+    background-color: azure;
+    font-size: xx-large;
+    text-align: center;
+}
+h3 {
+    text-shadow: 2px 2px red;
+}
